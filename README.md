@@ -2,7 +2,7 @@
 
 PathPal is a Flask-based web application that provides friendly, local-style walking directions using Google Maps and Gemini AI. Instead of robotic navigation instructions, PathPal gives you directions like a local friend would - with landmarks, tips, and conversational guidance.
 
-![Map Preview](static/images/map_preview.png)
+![Map Preview](static/PathPal.png)
 
 ## ✨ Features
 
